@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"fmt"5
+	"fmt"
 	"os"
 	"regexp"
 	"strconv"
